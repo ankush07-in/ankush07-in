@@ -10,7 +10,7 @@ ankush07-in/ankush07-in is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">👀 Hello 👋, I'm Ankush Adhikari</h1>
-<br>
+
 <h3 align="center"> 👨‍💻 Developer | AI Enthusiast 🌐 </h3>
 
 <p align="center">
